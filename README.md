@@ -3,18 +3,16 @@
 ## Author
 Name: Sareem Sandeed
 
-Student ID: 24622829
-
 ## Description
-It is a Python program that will perform currency conversion using data fetched from Frankfurter(https://www.frankfurter.app/), which an open-source API.
+It is a Python program that will perform currency conversion using data fetched from Frankfurter(https://www.frankfurter.app/), which is an open-source API.
 
-The program will perform currency conversion between 2 currency codes at a specific date. It has been designed also to calculate the inverse conversion rate between these 2 currencies.
+The program will convert currency between 2 currency codes at a specific date. It has also been designed to calculate the inverse conversion rate between these 2 currencies.
 
 ***Some major challenges that I faced are:***
 
-  - Writing api code to make connection with API
+  - Writing API code to make connections with API
   - Thinking about the use cases for test cases
-  - Understanding the concepts of Object Orientation Programmings(OOP)
+  - Understanding the concepts of Object Orientation Programming (OOP)
 
 <Some of the features you hope to implement in the future>
 ***Some features that I hope to implement in the future are:***
@@ -31,7 +29,7 @@ The program will perform currency conversion between 2 currency codes at a speci
   1. Unzip the zip folder
   2. Open PyCharm or other similar development environment
   3. Upload or connect all files into the development environment
-  4. Make sure python version is as given below
+  4. Make sure the Python version is as given below
   5. Upload all the packages and their version as given below
 
 ***Python packages and version used:***
@@ -53,11 +51,11 @@ wheel              0.37.1
 
 ## How to Run the Program
 
-In the command terminal, it will take a specific date in the given format and 2 currency codes as input arguments. Here is the command for running the script:
+The command terminal will take a specific date in the given format and 2 currency codes as input arguments. Here is the command for running the script:
 
 **`python main.py [date] [currency1] [currency2]`**
 
-The script will return the given outputs for different scenario :
+The script will return the given outputs for different scenarios:
 
 | Scenario | Example | Output |
 | ------------------- | --------------------------------- | ------------------------- |
@@ -75,22 +73,22 @@ The script will return the given outputs for different scenario :
 
 
 ## Project Structure
-<List all folders and files of this project and provide quick description for each of them>
+<List all folders and files of this project and provide a quick description for each of them>
 ***Folder:***
 dsp_at1_24622829.zip
 
-***Files within Zip folder are as follow:***
+***Files within the Zip folder are as follows:***
 
   - **main.py:** main program used for running your business logic
-  - **checks.py:** python script that will contain the code for checking inputted arguments and date validity
+  - **checks.py:** Python script that will contain the code for checking inputted arguments and the date validity
   - **api.py:** python script that will contain the code for making API calls
-  - **frankfurter.py:** python script that will contain the class used for calling relevant Frankfurter endpoints
+  - **frankfurter.py:** Python script that will contain the class used for calling relevant Frankfurter endpoints
   - **currency.py:** python script that will contain the class used for extracting currency conversion rate and calculating the inverse rate
-  - **test_checks.py:** python script for testing code from checks.py
+  - **test_checks.py:** Python script for testing code from checks.py
   - **test_frankfurter.py:** python script for testing code from frankfurter.py
-  - **test_api.py:** python script for testing code from api.py
-  - **test_currency.py:** python script for testing code from currency.py
-  - **README.md:** a markdown file containing details of student, a description of the project, listing of all Python versions and packages and instructions for running your code 
+  - **test_api.py:** Python script for testing code from api.py
+  - **test_currency.py:** Python script for testing code from currency.py
+  - **README.md:** a markdown file containing details of the student, a description of the project, a listing of all Python versions and packages and instructions for running your code 
 
 ## Citations
 
