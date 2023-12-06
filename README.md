@@ -15,6 +15,7 @@ The program will convert currency between 2 currency codes at a specific date. I
   - Understanding the concepts of Object Orientation Programming (OOP)
 
 <Some of the features you hope to implement in the future>
+  
 ***Some features that I hope to implement in the future are:***
 
   - Implementing UI/UX design to the Currency Converter
