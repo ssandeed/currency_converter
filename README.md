@@ -1,7 +1,4 @@
-# Assignment 1 - Building Currency Converter in Python
-
-## Author
-Name: Sareem Sandeed
+# Currency Converter in Python
 
 ## Description
 It is a Python program that will perform currency conversion using data fetched from Frankfurter(https://www.frankfurter.app/), which is an open-source API.
