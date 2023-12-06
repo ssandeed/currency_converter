@@ -41,12 +41,19 @@ Python Version: Python 3.8.9
 Package Used        Version
 ------------------ ---------
 certifi            2022.6.15
+
 charset-normalizer 2.1.1
+
 idna               3.3
+
 pip                21.3.1
+
 requests           2.28.1
+
 setuptools         60.2.0
+
 urllib3            1.26.12
+
 wheel              0.37.1
 
 
