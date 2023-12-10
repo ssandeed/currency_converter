@@ -1,7 +1,7 @@
 # Currency Converter in Python
 
 ## Description
-It is a Python program that will perform currency conversion using data fetched from [Frankfurter](https://www.frankfurter.app/), which is an open-source API.
+It is a Python program that will convert currency using data fetched from [Frankfurter](https://www.frankfurter.app/), an open-source API.
 
 The program will convert currency between 2 currency codes at a specific date. It has also been designed to calculate the inverse conversion rate between these 2 currencies.
 
