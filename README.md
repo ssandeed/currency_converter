@@ -1,7 +1,7 @@
 # Currency Converter in Python
 
 ## Description
-It is a Python program that will perform currency conversion using data fetched from Frankfurter(https://www.frankfurter.app/), which is an open-source API.
+It is a Python program that will perform currency conversion using data fetched from ![Frankfurter](https://www.frankfurter.app/), which is an open-source API.
 
 The program will convert currency between 2 currency codes at a specific date. It has also been designed to calculate the inverse conversion rate between these 2 currencies.
 
@@ -10,8 +10,6 @@ The program will convert currency between 2 currency codes at a specific date. I
   - Writing API code to make connections with API
   - Thinking about the use cases for test cases
   - Understanding the concepts of Object Orientation Programming (OOP)
-
-<Some of the features you hope to implement in the future>
   
 ***Some features that I hope to implement in the future are:***
 
@@ -78,11 +76,8 @@ The script will return the given outputs for different scenarios:
 
 
 ## Project Structure
-<List all folders and files of this project and provide a quick description for each of them>
-***Folder:***
-dsp_at1_24622829.zip
 
-***Files within the Zip folder are as follows:***
+***Files structure:***
 
   - **main.py:** main program used for running your business logic
   - **checks.py:** Python script that will contain the code for checking inputted arguments and the date validity
